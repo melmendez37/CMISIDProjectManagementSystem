@@ -1,6 +1,11 @@
 ## About CMISID Project Management System 
 This project is a comprehensive management system developed to streamline and organize CMISID's project operations. The system allows for the structured handling of project, client, and developer information, providing a centralized platform for data storage, updates, and project tracking.
 
+## Technologies Used
+- Laravel
+- Bootstrap 5
+- MySQL
+
 ## Scope and Limitations
 The system will have the ability to create and update information on CMISID’s existing projects, clients, and developers. Data for the system will be stored, not to be deleted at any time. There will be a dashboard containing the status and details of CMISID’s projects. An activity log feature that views previous edits will be included in the system. 
 
