@@ -46,3 +46,10 @@ Data needed
 4. Last name
 5. User role (Developer/Project Manager)
 6. Is Active (y/n)
+
+   
+DEVELOPER
+1. Views and updates own projects
+2. Views and updates own account
+3. Change own password after first-time login
+
