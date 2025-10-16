@@ -10,7 +10,7 @@ There are 2 types of users in this system, the Project Manager, and the Develope
 ## Detailed System Requirements
 PROJECT MANAGER
 1. Project Management (ADD, UPDATE)
-	Data needed
+	  Data needed
        - Project title
        - Description
        - Product Owner/Office/department (Dropdown)
