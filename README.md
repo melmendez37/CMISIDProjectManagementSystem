@@ -11,39 +11,38 @@ There are 2 types of users in this system, the Project Manager, and the Develope
 PROJECT MANAGER
 1. Project Management (ADD, UPDATE)
 	Data needed
-        Project title
-        Description
-        Product Owner/Office/department (Dropdown)
-        Developer name (Dropdown)
-        Start SAD (date)
-        Start development (date)
-        Estimated deployment (date)
-        Deployment (date)
-        Version
-        Status (Dropdown)
-        Link
-        Attachment (multiple files)
-        Developer remarks
-        Google Analytics remarks
-        SEO comments
-        DPA Complete remarks
-        Remarks
+       - Project title
+       - Description
+       - Product Owner/Office/department (Dropdown)
+       - Developer name (Dropdown)
+       - Start SAD (date)
+       - Start development (date)
+       - Estimated deployment (date)
+       - Deployment (date)
+       - Version
+       - Status (Dropdown)
+       - Link
+       - Attachment (multiple files)
+       - Developer remarks
+       - Google Analytics remarks
+       - SEO comments
+       - DPA Complete remarks
+       - Remarks
 
-2. Office and Developer Information (ADD, UPDATE)
+3. Office and Developer Information (ADD, UPDATE)
 	Data needed
-        Office/department
-        Developer’s name
-        Designation
+       - Office/department
+       - Developer’s name
+       - Designation
 
-3. User management (ADD, UPDATE, SOFT DELETE)
+4. User management (ADD, UPDATE, SOFT DELETE)
 	Data needed
-        Username
-        First name
-        Middle name
-        Last name
-        User role (Developer/Project Manager)
-        Is Active (y/n)
-
+       - Username
+       - First name
+       - Middle name
+       - Last name
+       - User role (Developer/Project Manager)
+       - Is Active (y/n)
 
 
 ## Code of Conduct
